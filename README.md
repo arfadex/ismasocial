@@ -11,7 +11,7 @@
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/megane0103/ismasocial.git
+git clone https://github.com/Megane0103/ismasocial.git
 cd ismasocial
 ```
 
@@ -55,7 +55,7 @@ npm start
 
 ### Using Docker Compose
 
-1. **Build and Run with Docker Compose:**
+1. **Build and Run with [Docker Compose](docker-compose.yml):**
 
    Ensure Docker and Docker Compose are installed.
 
