@@ -6,7 +6,7 @@ services:
     environment:
       - MONGO_URL=mongodb://mongo:27017/ismasocial
       - PORT=5000
-      - JWT_SECRET=a3f5b78d5e9c46b38d5a6d087c67d9f0fe0c9a84dc576b2e074c25ec4a5df29b
+      - JWT_SECRET=secret
     depends_on:
       - mongo
 
