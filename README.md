@@ -11,7 +11,7 @@
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/Megane0103/ismasocial.git
+git clone https://github.com/arfadex/ismasocial.git
 cd ismasocial
 ```
 
